@@ -44,7 +44,8 @@
     "@vaadin/vaadin-radio-button": "1.2.6",
     "@vaadin/vaadin-lumo-styles": "1.5.0",
     "@vaadin/vaadin-material-styles": "1.2.3",
-    "@vaadin/vaadin-rich-text-editor": "1.1.1"
+    "@vaadin/vaadin-rich-text-editor": "1.1.1",
+    "lit-element": "2.3.0"
   },
   "devDependencies": {
     "webpack": "4.42.0",
@@ -101,7 +102,8 @@
       "@vaadin/vaadin-radio-button": "1.2.6",
       "@vaadin/vaadin-lumo-styles": "1.5.0",
       "@vaadin/vaadin-material-styles": "1.2.3",
-      "@vaadin/vaadin-rich-text-editor": "1.1.1"
+      "@vaadin/vaadin-rich-text-editor": "1.1.1",
+      "lit-element": "2.3.0"
     },
     "devDependencies": {
       "webpack-babel-multi-target-plugin": "2.3.3",
@@ -114,6 +116,6 @@
       "webpack-merge": "4.2.2",
       "webpack-dev-server": "3.10.3"
     },
-    "hash": "ff6bf9595a64a06dbab813090ee759084167b12ba737d4b8d0a4e8305a6b4b05"
+    "hash": "24ac4a1edb4646f138783da2e4fa9a9b395a7d8f2fda35d09135b1b1d6b98574"
   }
 }
